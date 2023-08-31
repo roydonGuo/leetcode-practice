@@ -1,4 +1,4 @@
-package com.roydon.hashtable;
+package com.roydon.java.hashtable;
 
 import java.util.HashSet;
 import java.util.Set;

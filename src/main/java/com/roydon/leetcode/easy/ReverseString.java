@@ -1,4 +1,4 @@
-package com.roydon.easy;
+package com.roydon.leetcode.easy;
 
 /**
  * @author roydon

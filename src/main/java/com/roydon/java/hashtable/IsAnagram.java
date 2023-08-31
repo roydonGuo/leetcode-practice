@@ -1,4 +1,4 @@
-package com.roydon.hashtable;
+package com.roydon.java.hashtable;
 
 /**
  * @USER: roydon
