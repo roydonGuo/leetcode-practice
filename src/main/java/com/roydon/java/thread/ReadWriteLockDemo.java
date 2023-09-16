@@ -21,7 +21,7 @@ import java.util.concurrent.locks.ReentrantReadWriteLock;
  * 请注意，读写锁的使用需要根据具体的场景和需求进行合理的设计和调整。
  **/
 public class ReadWriteLockDemo {
-    private static ReadWriteLock lock = new ReentrantReadWriteLock();
+    private static final ReadWriteLock lock = new ReentrantReadWriteLock();
     private static int sharedData = 0;
 
     private static class Reader extends Thread {
