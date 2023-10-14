@@ -38,6 +38,7 @@ public class TwoSum {
             set.add(nums[left]);
             left++;
         }
+        System.out.println("left = " + left);
         return null;
     }
 }
